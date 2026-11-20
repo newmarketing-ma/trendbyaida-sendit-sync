@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TREND by Aida | Sendit Cloud Bridge</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #0f172a;
+            color: #f8fafc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 16px;
+            padding: 32px;
+            max-width: 500px;
+            width: 100%;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+            text-align: center;
+        }
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: #064e3b;
+            color: #34d399;
+            padding: 6px 16px;
+            border-radius: 9999px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+        .dot {
+            width: 8px;
+            height: 8px;
+            background: #10b981;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.2); }
+        }
+        h1 { margin: 0 0 12px; font-size: 24px; color: #fff; }
+        p { color: #94a3b8; font-size: 14px; line-height: 1.6; margin: 0 0 24px; }
+        .endpoint {
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            padding: 12px;
+            font-family: monospace;
+            font-size: 13px;
+            color: #38bdf8;
+            word-break: break-all;
+            margin-bottom: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background: #6366f1;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            border: none;
+        }
+        .btn:hover { background: #4f46e5; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="badge"><span class="dot"></span> Sendit Cloud Bridge Active</div>
+        <h1>TREND by Aida</h1>
+        <p>Pont serveur cloud 24/7/365 entre ChanTan Studio (Supabase) et Sendit.ma. Envoi instantané des commandes dès confirmation mobile.</p>
+        <div class="endpoint">POST /api/sync</div>
+        <button class="btn" onclick="triggerSync()">Tester la synchronisation</button>
+        <div id="result" style="margin-top: 16px; font-size: 13px; color: #94a3b8;"></div>
+    </div>
+    <script>
+        async function triggerSync() {
+            const resEl = document.getElementById('result');
+            resEl.innerText = 'Synchronisation en cours...';
+            try {
+                const res = await fetch('/api/sync', { method: 'POST' });
+                const data = await res.json();
+                resEl.innerText = JSON.stringify(data, null, 2);
+                resEl.style.color = '#34d399';
+            } catch (e) {
+                resEl.innerText = 'Erreur: ' + e.message;
+                resEl.style.color = '#f87171';
+            }
+        }
+    </script>
+</body>
+</html>

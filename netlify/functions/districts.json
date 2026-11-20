@@ -1,0 +1,4745 @@
+[
+  {
+    "id": 645,
+    "ville": "kodiat sbaa",
+    "name": "kodiat sbaa",
+    "arabic_name": "\u0643\u0648\u062f\u064a\u0629 \u0627\u0644\u0633\u0628\u0639",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 644,
+    "ville": "Tamuda",
+    "name": "Tamuda",
+    "arabic_name": "\u062a\u0645\u0648\u062f\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 643,
+    "ville": "Bouanan",
+    "name": "Bouanan",
+    "arabic_name": "\u0628\u0648\u0639\u0646\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 642,
+    "ville": "Sahtryine",
+    "name": "Sahtryine",
+    "arabic_name": "\u0627\u0644\u0633\u062d\u062a\u0631\u064a\u064a\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 641,
+    "ville": "Casablanca",
+    "name": "Casablanca - Riad Oulfa",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 640,
+    "ville": "Casablanca",
+    "name": "Casablanca - Jnan Louz",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 639,
+    "ville": "Casablanca",
+    "name": "Casablanca - Zoubir",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 638,
+    "ville": "Casablanca",
+    "name": "Casablanca - Farah Salam",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 637,
+    "ville": "Casablanca",
+    "name": "Casablanca - Haje Fateh",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 636,
+    "ville": "Casablanca",
+    "name": "Casablanca - Firdaouss",
+    "arabic_name": null,
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 634,
+    "ville": "Bouhmed",
+    "name": "Bouhmed",
+    "arabic_name": "\u0628\u0648\u062d\u0645\u062f",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 633,
+    "ville": "Chmaala ( oued law )",
+    "name": "Chmaala ( oued law )",
+    "arabic_name": "\u0627\u0644\u0634\u0645\u0627\u0639\u0644\u0629 ( \u0648\u0627\u062f \u0644\u0627\u0648 )",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 632,
+    "ville": "targha ( oued law )",
+    "name": "targha ( oued law )",
+    "arabic_name": "\u062a\u0627\u0631\u063a\u0629 ( \u0648\u0627\u062f \u0644\u0627\u0648 )",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 631,
+    "ville": "Tamrabet",
+    "name": "Tamrabet",
+    "arabic_name": "\u062a\u0627\u0645\u0631\u0627\u0628\u0637",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 630,
+    "ville": "Tamernout",
+    "name": "Tamernout",
+    "arabic_name": "\u062a\u0627\u0645\u0640\u0631\u0646\u0640\u0648\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 629,
+    "ville": "Aouchtame Bni Said",
+    "name": "Aouchtame Bni Said",
+    "arabic_name": "\u0622\u0648\u0634\u0640\u062a\u0640\u0627\u0645 \u0628\u0646\u064a \u0633\u0639\u064a\u062f",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 628,
+    "ville": "Amsa",
+    "name": "Amsa",
+    "arabic_name": "\u0622\u0645\u0640\u0640\u0640\u0633\u0640\u0640\u0640\u0627",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 627,
+    "ville": "Nakkata",
+    "name": "Nakkata",
+    "arabic_name": "\u0646\u0643\u0627\u0637\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 626,
+    "ville": "Khemiss Anjra",
+    "name": "Khemiss Anjra",
+    "arabic_name": "\u062e\u0645\u064a\u0633 \u0627\u0646\u062c\u0631\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 625,
+    "ville": "Ain Zarka ( tetouan )",
+    "name": "Ain Zarka ( tetouan )",
+    "arabic_name": "\u0639\u064a\u0646 \u0627\u0644\u0632\u0631\u0642\u0629 ( \u062a\u0637\u0648\u0627\u0646 )",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 624,
+    "ville": "Saba\u00e2 A\u00efyoun",
+    "name": "Saba\u00e2 A\u00efyoun",
+    "arabic_name": "\u0633\u0628\u0639 \u0639\u064a\u0648\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 623,
+    "ville": "Oued Jdida",
+    "name": "Oued Jdida",
+    "arabic_name": "\u0648\u0627\u062f \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 622,
+    "ville": "Guigou",
+    "name": "Guigou",
+    "arabic_name": "\u0643\u0640\u0640\u064a\u0640\u0640\u0643\u0640\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 621,
+    "ville": "Boudenib",
+    "name": "Boudenib",
+    "arabic_name": "\u0628\u0648\u0630\u0646\u064a\u0628",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 620,
+    "ville": "Jorf ( errachidia )",
+    "name": "Jorf ( errachidia )",
+    "arabic_name": "\u0627\u0644\u062c\u0640\u0631\u0641 ( \u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629 )",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 619,
+    "ville": "Aghbalou",
+    "name": "Aghbalou",
+    "arabic_name": "\u0623\u063a\u0628\u0627\u0644\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 618,
+    "ville": "Itzer",
+    "name": "Itzer",
+    "arabic_name": "\u0625\u064a\u062a\u0632\u0627\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 617,
+    "ville": "Ighrem N'ougdal",
+    "name": "Ighrem N'ougdal",
+    "arabic_name": "\u0625\u064a\u063a\u0631\u0645 \u0646 \u0623\u0648\u0643\u062f\u0627\u0644",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 616,
+    "ville": "Anzal",
+    "name": "Anzal",
+    "arabic_name": "\u0623\u0646\u0632\u0627\u0644",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 615,
+    "ville": "Timedline",
+    "name": "Timedline",
+    "arabic_name": "\u062a\u064a\u0645\u062f\u0644\u064a\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 614,
+    "ville": "Tabounte Ouarzazate",
+    "name": "Tabounte Ouarzazate",
+    "arabic_name": "\u062a\u0627\u0628\u0648\u0646\u062a \u0648\u0631\u0632\u0627\u0632\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 613,
+    "ville": "Tabourahte",
+    "name": "Tabourahte",
+    "arabic_name": "\u062a\u0627\u0628\u0648\u0631\u0627\u062d\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 612,
+    "ville": "Agouim",
+    "name": "Agouim",
+    "arabic_name": "\u0623\u063a\u0648\u064a\u0645",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 611,
+    "ville": "Amerzgane",
+    "name": "Amerzgane",
+    "arabic_name": "\u0623\u0645\u0631\u0632\u0643\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 610,
+    "ville": "A\u00eft Ben Haddou",
+    "name": "A\u00eft Ben Haddou",
+    "arabic_name": "\u0622\u064a\u062a \u0628\u0646 \u062d\u062f\u0651\u0648",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 609,
+    "ville": "Sidi Bouzid ( safi )",
+    "name": "Sidi Bouzid ( safi )",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0648\u0632\u064a\u062f ( \u0622\u0633\u0641\u064a )",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 608,
+    "ville": "Aquermoud",
+    "name": "Aquermoud",
+    "arabic_name": "\u0623\u0642\u0631\u0645\u0648\u062f",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 607,
+    "ville": "Bni Boufrah",
+    "name": "Bni Boufrah",
+    "arabic_name": "\u0628\u0646\u064a \u0628\u0648\u0641\u0631\u0627\u062d",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 606,
+    "ville": "Galaz",
+    "name": "Galaz",
+    "arabic_name": "\u0643\u0644\u0627\u0632",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 604,
+    "ville": "Ahejarr Ennehal",
+    "name": "Ahejarr Ennehal",
+    "arabic_name": "\u062d\u062c\u0631 \u0627\u0644\u0646\u062d\u0644",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 603,
+    "ville": "Melloussa",
+    "name": "Melloussa",
+    "arabic_name": "\u0623\u0645\u0644\u0648\u0633",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 602,
+    "ville": "Imi Ouaddar",
+    "name": "Imi Ouaddar",
+    "arabic_name": "\u0625\u064a\u0645\u064a \u0648\u062f\u0651\u0627\u0631",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 601,
+    "ville": "Mirleft",
+    "name": "Mirleft",
+    "arabic_name": "\u0645\u064a\u0631\u0644\u0641\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 600,
+    "ville": "Ain Lahcen",
+    "name": "Ain Lahcen",
+    "arabic_name": "\u0639\u064a\u0646 \u0627\u0644\u062d\u0635\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 597,
+    "ville": "Belyounech",
+    "name": "Belyounech",
+    "arabic_name": "\u0628\u0644\u064a\u0648\u0646\u0634",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 596,
+    "ville": "Azla",
+    "name": "Azla",
+    "arabic_name": "\u0623\u0632\u0644\u0627",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 594,
+    "ville": "KAA ASRASS",
+    "name": "KAA ASRASS",
+    "arabic_name": "\u0642\u0627\u0639 \u0623\u0633\u0631\u0627\u0633",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 593,
+    "ville": "El Jebeha",
+    "name": "El Jebeha",
+    "arabic_name": "\u0627\u0644\u062c\u0628\u0647\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 592,
+    "ville": "Stehat",
+    "name": "Stehat",
+    "arabic_name": "\u0627\u0633\u0637\u064a\u062d\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 591,
+    "ville": "Ben Karrich",
+    "name": "Ben Karrich",
+    "arabic_name": "\u0628\u0646\u0642\u0631\u064a\u0634",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 589,
+    "ville": "Hajria Ouled Daoud",
+    "name": "Hajria Ouled Daoud",
+    "arabic_name": "\u0627\u0644\u062d\u062c\u0631\u064a\u0629 \u0627\u0648\u0644\u0627\u062f \u062f\u0627\u0648\u0648\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 588,
+    "ville": "Ourtzagh",
+    "name": "Ourtzagh",
+    "arabic_name": "\u0627\u0648\u0631\u062a\u0632\u0627\u063a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 587,
+    "ville": "Fricha",
+    "name": "Fricha",
+    "arabic_name": "\u0641\u0631\u064a\u0634\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 586,
+    "ville": "Khlalfa",
+    "name": "Khlalfa",
+    "arabic_name": "\u0627\u062e\u0644\u0627\u0644\u0641\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 585,
+    "ville": "Kariat Ba Mohamed",
+    "name": "Kariat Ba Mohamed",
+    "arabic_name": "\u0642\u0631\u064a\u0629 \u0628\u0627 \u0645\u062d\u0645\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 584,
+    "ville": "Sebt Ben Sassi",
+    "name": "Sebt Ben Sassi",
+    "arabic_name": "\u0633\u0648\u0642 \u0627\u0644\u0633\u0628\u062a \u0628\u0646 \u0633\u0627\u0633\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 583,
+    "ville": "Sidi Zouine",
+    "name": "Sidi Zouine",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0627\u0644\u0632\u0648\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 582,
+    "ville": "Chrifia",
+    "name": "Chrifia",
+    "arabic_name": "\u0627\u0644\u0634\u0631\u064a\u0641\u064a\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 581,
+    "ville": "Sidi Bou Othmane",
+    "name": "Sidi Bou Othmane",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0648\u0639\u062b\u0645\u0627\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 580,
+    "ville": "Ben Rahmoun",
+    "name": "Ben Rahmoun",
+    "arabic_name": "\u0628\u0646 \u0631\u062d\u0645\u0648\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 579,
+    "ville": "Asni",
+    "name": "Asni",
+    "arabic_name": "\u0623\u0633\u0646\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 578,
+    "ville": "Agafay",
+    "name": "Agafay",
+    "arabic_name": "\u0623\u0763\u0641\u0627\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 577,
+    "ville": "Belaaguid",
+    "name": "Belaaguid",
+    "arabic_name": "\u0628\u0644\u0639\u0643\u064a\u062f",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 576,
+    "ville": "Mohammedia - Alia",
+    "name": "Mohammedia - Alia",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 - \u0639\u0627\u0644\u064a\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 575,
+    "ville": "Mohammedia - Hay Wafa",
+    "name": "Mohammedia - Hay Wafa",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 \u2013 \u062d\u064a \u0627\u0644\u0648\u0641\u0627\u0621",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 574,
+    "ville": "Mohammedia - Hassania",
+    "name": "Mohammedia - Hassania",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 \u2013 \u0627\u0644\u062d\u0633\u0646\u064a\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 573,
+    "ville": "Mohammedia - Nassim",
+    "name": "Mohammedia - Nassim",
+    "arabic_name": "almuhamadiat - nasim",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 572,
+    "ville": "Mohammedia - Al Massira",
+    "name": "Mohammedia - Al Massira",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 - \u0627\u0644\u0645\u0633\u064a\u0631\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 571,
+    "ville": "Mohammedia - Al Wahda",
+    "name": "Mohammedia - Al Wahda",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 - \u0627\u0644\u0648\u062d\u062f\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 570,
+    "ville": "Mohammedia - Kasbah",
+    "name": "Mohammedia - Kasbah",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 - \u0627\u0644\u0642\u0635\u0628\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 569,
+    "ville": "Mohammedia - Parc",
+    "name": "Mohammedia - Parc",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629 - \u062d\u062f\u064a\u0642\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 568,
+    "ville": "Achakkar",
+    "name": "Achakkar",
+    "arabic_name": "\u0627\u0634\u0640\u0642\u0640\u0627\u0631",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 567,
+    "ville": "Tansifte",
+    "name": "Tansifte",
+    "arabic_name": "\u062a\u0627\u0646\u0633\u064a\u0641\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 566,
+    "ville": "Tinzouline",
+    "name": "Tinzouline",
+    "arabic_name": "\u062a\u0646\u0632\u0644\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 565,
+    "ville": "Taghbalt",
+    "name": "Taghbalt",
+    "arabic_name": "\u062a\u0627\u063a\u0628\u0627\u0644\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 564,
+    "ville": "Tamezmoute",
+    "name": "Tamezmoute",
+    "arabic_name": "\u062a\u0627\u0645\u0632\u0645\u0648\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 563,
+    "ville": "Ternata",
+    "name": "Ternata",
+    "arabic_name": "\u062a\u0631\u0646\u0627\u062a\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 562,
+    "ville": "Tazarine",
+    "name": "Tazarine",
+    "arabic_name": "\u062a\u0627\u0632\u0627\u0631\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 561,
+    "ville": "M'Hamid El Ghizlane",
+    "name": "M'Hamid El Ghizlane",
+    "arabic_name": "\u0645\u062d\u0627\u0645\u064a\u062f \u0627\u0644\u063a\u0632\u0644\u0627\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 560,
+    "ville": "Nkoub",
+    "name": "Nkoub",
+    "arabic_name": "\u0646\u0642\u0648\u0628",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 559,
+    "ville": "Fezouata",
+    "name": "Fezouata",
+    "arabic_name": "\u0641\u0632\u0648\u0627\u0637\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 558,
+    "ville": "Errouha",
+    "name": "Errouha",
+    "arabic_name": "\u0627\u0644\u0631\u0648\u062d\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 557,
+    "ville": "Ait Boudaoud",
+    "name": "Ait Boudaoud",
+    "arabic_name": "\u0623\u064a\u062a \u0628\u0648\u062f\u0627\u0648\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 556,
+    "ville": "Tagounite",
+    "name": "Tagounite",
+    "arabic_name": "\u062a\u0627\u0643\u0648\u0646\u064a\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 554,
+    "ville": "Bleida",
+    "name": "Bleida",
+    "arabic_name": "\u0627\u0644\u0628\u0644\u064a\u062f\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 553,
+    "ville": "Beni zoli",
+    "name": "Beni zoli",
+    "arabic_name": "\u0628\u0646\u0648\u0632\u0648\u0644\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 552,
+    "ville": "Tamegroute",
+    "name": "Tamegroute",
+    "arabic_name": "\u062a\u0627\u0645\u0643\u0631\u0648\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 551,
+    "ville": "Birkouate",
+    "name": "Birkouate",
+    "arabic_name": "\u0628\u064a\u0631\u0643\u0648\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 550,
+    "ville": "Had Draa",
+    "name": "Had Draa",
+    "arabic_name": "\u062d\u062f \u062f\u0631\u0639\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 549,
+    "ville": "Tafetachte",
+    "name": "Tafetachte",
+    "arabic_name": "\u062a\u0641\u062a\u0627\u0634\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 548,
+    "ville": "Meskala",
+    "name": "Meskala",
+    "arabic_name": "\u0645\u0633\u0643\u0627\u0644\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 547,
+    "ville": "Tleta-El Henchane",
+    "name": "Tleta-El Henchane",
+    "arabic_name": "\u062b\u0644\u0627\u062b\u0627\u0621 \u062d\u0646\u0634\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 546,
+    "ville": "Douar laarab ( essaouira )",
+    "name": "Douar laarab ( essaouira )",
+    "arabic_name": "\u062f\u0648\u0627\u0631 \u0644\u0639\u0631\u0628 ( \u0627\u0644\u0635\u0648\u064a\u0631\u0629 )",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 545,
+    "ville": "Ait Daoud",
+    "name": "Ait Daoud",
+    "arabic_name": "\u0627\u064a\u062a \u062f\u0627\u0648\u062f",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 544,
+    "ville": "Tamanar",
+    "name": "Tamanar",
+    "arabic_name": "\u062a\u0627\u0645\u0646\u0627\u0631",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 543,
+    "ville": "Smimou",
+    "name": "Smimou",
+    "arabic_name": "\u0633\u0645\u064a\u0645\u0648",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 542,
+    "ville": "Tidzi",
+    "name": "Tidzi",
+    "arabic_name": "\u062a\u062f\u0632\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 541,
+    "ville": "Sidi Kaouki",
+    "name": "Sidi Kaouki",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0643\u0627\u0648\u0643\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 540,
+    "ville": "Sidi Taibi",
+    "name": "Sidi Taibi",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0627\u0644\u0637\u064a\u0628\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 539,
+    "ville": "Ouahat Sidi Brahim",
+    "name": "Ouahat Sidi Brahim",
+    "arabic_name": "\u0648\u0627\u062d\u0629 \u0633\u064a\u062f\u064a \u0627\u0628\u0631\u0627\u0647\u064a\u0645",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 538,
+    "ville": "Bouskoura-Ouled Saleh",
+    "name": "Bouskoura-Ouled Saleh",
+    "arabic_name": "\u0628\u0648\u0633\u0643\u0648\u0631\u0629-\u0627\u0648\u0644\u0627\u062f \u0635\u0627\u0644\u062d",
+    "price": "29",
+    "delais": "24h",
+    "pickup_district": 1
+  },
+  {
+    "id": 537,
+    "ville": "Bouskoura-Ville Verte",
+    "name": "Bouskoura-Ville Verte",
+    "arabic_name": "\u0628\u0648\u0633\u0643\u0648\u0631\u0629-\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621",
+    "price": "29",
+    "delais": "24h",
+    "pickup_district": 1
+  },
+  {
+    "id": 536,
+    "ville": "Lalla Mimouna",
+    "name": "Lalla Mimouna",
+    "arabic_name": "\u0644\u0627\u0644\u0629 \u0645\u064a\u0645\u0648\u0646\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 535,
+    "ville": "Dlalha",
+    "name": "Dlalha",
+    "arabic_name": "\u0627\u0644\u062f\u0644\u0627\u0644\u062d\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 534,
+    "ville": "Sebt Jahjouhe",
+    "name": "Sebt Jahjouhe",
+    "arabic_name": "\u0627\u0644\u0633\u0628\u062a \u062c\u062d\u062c\u0648\u062d",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 533,
+    "ville": "Bouderbala",
+    "name": "Bouderbala",
+    "arabic_name": "\u0628\u0648\u062f\u0631\u0628\u0627\u0644\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 532,
+    "ville": "Timahdite",
+    "name": "Timahdite",
+    "arabic_name": "\u062a\u064a\u0645\u062d\u0636\u064a\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 531,
+    "ville": "Zouada",
+    "name": "Zouada",
+    "arabic_name": "\u0632\u0648\u0627\u062f\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 530,
+    "ville": "Khemis du Sahel",
+    "name": "Khemis du Sahel",
+    "arabic_name": "\u0627\u0644\u062e\u0645\u064a\u0633 \u0627\u0644\u0633\u0627\u062d\u0644",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 529,
+    "ville": "Afsou ( nador )",
+    "name": "Afsou ( nador )",
+    "arabic_name": "\u0623\u0641\u0633\u0648 ( \u0627\u0644\u0646\u0627\u0636\u0648\u0631 )",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 528,
+    "ville": "Oulad Amrane \"R\u00e9gion El Jadida\"",
+    "name": "Oulad Amrane \"R\u00e9gion El Jadida\"",
+    "arabic_name": "\"\u0623\u0648\u0644\u0627\u062f \u0639\u0645\u0631\u0627\u0646 \"\u062c\u0647\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 527,
+    "ville": "El Haouzia ( el jadida )",
+    "name": "El Haouzia ( el jadida )",
+    "arabic_name": "\u0627\u0644\u062d\u0648\u0632\u064a\u0629 ( \u0627\u0644\u062c\u062f\u064a\u062f\u0629 )",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 526,
+    "ville": "Messawerr Rasso",
+    "name": "Messawerr Rasso",
+    "arabic_name": "\u0645\u0635\u0627\u0648\u0651\u0631 \u0631\u0627\u0633\u0648",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 525,
+    "ville": "Sidi Sma\u00efl",
+    "name": "Sidi Sma\u00efl",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0627\u0633\u0645\u0627\u0639\u064a\u0644",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 524,
+    "ville": "Oulad Frej",
+    "name": "Oulad Frej",
+    "arabic_name": "\u0652\u0623\u0648\u0644\u0627\u062f \u0623\u0641\u0652\u0631\u064e\u062c",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 523,
+    "ville": "Bir Jdid",
+    "name": "Bir Jdid",
+    "arabic_name": "\u0627\u0644\u0628\u0626\u0631 \u0627\u0644\u062c\u062f\u064a\u062f",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 522,
+    "ville": "Bab Marzouka",
+    "name": "Bab Marzouka",
+    "arabic_name": "\u0628\u0627\u0628 \u0645\u0631\u0632\u0648\u0642\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 521,
+    "ville": "Marnissa",
+    "name": "Marnissa",
+    "arabic_name": "\u0645\u0631\u0646\u064a\u0633\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 520,
+    "ville": "Tiddas",
+    "name": "Tiddas",
+    "arabic_name": "\u062a\u064a\u062f\u0651\u0627\u0633",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 519,
+    "ville": "Guisser",
+    "name": "Guisser",
+    "arabic_name": "\u062c\u0645\u0639\u0629 \u0643\u064a\u0633\u0631",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 518,
+    "ville": "El Borouj \"R\u00e9gion de Settat\"",
+    "name": "El Borouj \"R\u00e9gion de Settat\"",
+    "arabic_name": "\"\u0627\u0644\u0628\u0631\u0648\u062c \"\u062c\u0647\u0629 \u0633\u0637\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 517,
+    "ville": "Oulad Abbou",
+    "name": "Oulad Abbou",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0639\u0628\u0648",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 516,
+    "ville": "Oulad Said \"R\u00e9gion de Settat\"",
+    "name": "Oulad Said \"R\u00e9gion de Settat\"",
+    "arabic_name": "\"\u0627\u0648\u0644\u0627\u062f \u0633\u0639\u064a\u062f \"\u062c\u0647\u0629 \u0633\u0637\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 515,
+    "ville": "Sidi El Ayedi",
+    "name": "Sidi El Ayedi",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0627\u0644\u0639\u0627\u064a\u062f\u064a",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 514,
+    "ville": "Ras El Ain  \"R\u00e9gion de Settat\"",
+    "name": "Ras El Ain  \"R\u00e9gion de Settat\"",
+    "arabic_name": "\"\u0631\u0627\u0633 \u0627\u0644\u0639\u064a\u0646 \"\u062c\u0647\u0629 \u0633\u0637\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 513,
+    "ville": "Ain Mediouna",
+    "name": "Ain Mediouna",
+    "arabic_name": "\u0639\u064a\u0646 \u0645\u062f\u064a\u0648\u0646\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 512,
+    "ville": "Bouhouda",
+    "name": "Bouhouda",
+    "arabic_name": "\u0628\u0648\u0647\u0648\u062f\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 511,
+    "ville": "Bani Walid",
+    "name": "Bani Walid",
+    "arabic_name": "\u0628\u0646\u064a \u0648\u0644\u064a\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 510,
+    "ville": "Ain Aicha",
+    "name": "Ain Aicha",
+    "arabic_name": "\u0639\u064a\u0646 \u0639\u0627\u0626\u0634\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 509,
+    "ville": "Tissa",
+    "name": "Tissa",
+    "arabic_name": "\u062a\u064a\u0633\u0651\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 508,
+    "ville": "Azrou \"R\u00e9gion d'Agadir\"",
+    "name": "Azrou \"R\u00e9gion d'Agadir\"",
+    "arabic_name": "\"\u0627\u0632\u0631\u0648\"\u062c\u0647\u0629 \u0623\u0643\u0627\u062f\u064a\u0631",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 507,
+    "ville": "Outat El Haj",
+    "name": "Outat El Haj",
+    "arabic_name": "\u0627\u0648\u0637\u0627\u0637 \u0627\u0644\u062d\u0627\u062c",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 506,
+    "ville": "El Kebab",
+    "name": "El Kebab",
+    "arabic_name": "\u0627\u0644\u0642\u0628\u0627\u0628",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 505,
+    "ville": "Sidi Allal Tazi",
+    "name": "Sidi Allal Tazi",
+    "arabic_name": "\u0639\u0644\u0627\u0644 \u0627\u0644\u062a\u0627\u0632\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 504,
+    "ville": "Ain Leuh",
+    "name": "Ain Leuh",
+    "arabic_name": "\u0639\u064a\u0646 \u0627\u0644\u0644\u0648\u062d",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 503,
+    "ville": "Timezgadiouine",
+    "name": "Timezgadiouine",
+    "arabic_name": "\u062a\u064a\u0645\u0632\u0763\u0627\u062f\u064a\u0648\u064a\u0646",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 502,
+    "ville": "Bni Bouayach",
+    "name": "Bni Bouayach",
+    "arabic_name": "\u0628\u0646\u064a \u0628\u0648\u0639\u064a\u0627\u0634",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 501,
+    "ville": "Issaguen",
+    "name": "Issaguen",
+    "arabic_name": "\u0625\u0633\u0627\u06af\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 500,
+    "ville": "Targuist",
+    "name": "Targuist",
+    "arabic_name": "\u062a\u0627\u0631\u06af\u064a\u0633\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 499,
+    "ville": "Bni Hadifa",
+    "name": "Bni Hadifa",
+    "arabic_name": "\u0628\u0646\u064a \u062d\u062f\u064a\u0641\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 498,
+    "ville": "Ait-Kamara",
+    "name": "Ait-Kamara",
+    "arabic_name": "\u0622\u064a\u062a \u0642\u0627\u0645\u0631\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 497,
+    "ville": "Boukidaren",
+    "name": "Boukidaren",
+    "arabic_name": "\u0623\u0628\u0648\u0643\u064a\u062f\u0627\u0631\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 496,
+    "ville": "Ajdir ( al hoceima )",
+    "name": "Ajdir ( al hoceima )",
+    "arabic_name": "\u0623\u062c\u062f\u064a\u0631 ( \u0627\u0644\u062d\u0633\u064a\u0645\u0629 )",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 495,
+    "ville": "Bassatine El Menzeh",
+    "name": "Bassatine El Menzeh",
+    "arabic_name": "\u0628\u0633\u0627\u062a\u064a\u0646 \u0627\u0644\u0645\u0646\u0632\u0647",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 494,
+    "ville": "Jaadar",
+    "name": "Jaadar",
+    "arabic_name": "\u062c\u0639\u062f\u0627\u0631",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 493,
+    "ville": "Afra",
+    "name": "Afra",
+    "arabic_name": "\u0627\u0641\u0631\u0627",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 492,
+    "ville": "Bouarg",
+    "name": "Bouarg",
+    "arabic_name": "\u0628\u0648\u0639\u0631\u0643",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 491,
+    "ville": "Mariouari",
+    "name": "Mariouari",
+    "arabic_name": "\u0645\u0627\u0631\u064a\u0648\u0627\u0631\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 490,
+    "ville": "Beni Sidal Jbel",
+    "name": "Beni Sidal Jbel",
+    "arabic_name": "\u0628\u0646\u064a \u0633\u064a\u062f\u0627\u0644 \u0627\u0644\u062c\u0628\u0644",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 489,
+    "ville": "Kariat Arekmane",
+    "name": "Kariat Arekmane",
+    "arabic_name": "\u0642\u0631\u064a\u0629 \u0623\u0631\u06a9\u0645\u0627\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 488,
+    "ville": "Ouled Settout",
+    "name": "Ouled Settout",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0627\u0633\u062a\u0648\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 487,
+    "ville": "Tafersit",
+    "name": "Tafersit",
+    "arabic_name": "\u062a\u0641\u0631\u0633\u064a\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 486,
+    "ville": "Kassita",
+    "name": "Kassita",
+    "arabic_name": "\u0643\u0627\u0633\u064a\u0637\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 485,
+    "ville": "Telat Azlaf",
+    "name": "Telat Azlaf",
+    "arabic_name": "\u0623\u0632\u0644\u0627\u0641",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 484,
+    "ville": "Tamsamane",
+    "name": "Tamsamane",
+    "arabic_name": "\u062a\u0645\u0633\u0645\u0627\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 483,
+    "ville": "Boudinar",
+    "name": "Boudinar",
+    "arabic_name": "\u0628\u0648\u062f\u064a\u0646\u0627\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 482,
+    "ville": "Dar-El Kebdani",
+    "name": "Dar-El Kebdani",
+    "arabic_name": "\u062f\u0627\u0631 \u0627\u0644\u0643\u0628\u062f\u0627\u0646\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 481,
+    "ville": "A\u00efn Erreggada",
+    "name": "A\u00efn Erreggada",
+    "arabic_name": "\u0639\u064a\u0646 \u0631\u06ad\u0627\u062f\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 480,
+    "ville": "Boughriba",
+    "name": "Boughriba",
+    "arabic_name": "\u0628\u0648\u063a\u0631\u0628\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 479,
+    "ville": "Madagh",
+    "name": "Madagh",
+    "arabic_name": "\u0645\u062f\u0651\u0627\u063a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 478,
+    "ville": "Beni Drar",
+    "name": "Beni Drar",
+    "arabic_name": "\u0628\u0646\u064a \u062f\u0631\u0627\u0631",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 477,
+    "ville": "Tendrara",
+    "name": "Tendrara",
+    "arabic_name": "\u062a\u0646\u062f\u0631\u0627\u0631\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 476,
+    "ville": "Bou\u00e2rfa",
+    "name": "Bou\u00e2rfa",
+    "arabic_name": "\u0628\u0648\u0639\u0631\u0641\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 475,
+    "ville": "Figuig",
+    "name": "Figuig",
+    "arabic_name": "\u0641\u06ad\u064a\u06ad",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 474,
+    "ville": "El-afak",
+    "name": "El-afak",
+    "arabic_name": "\u0627\u0644\u0622\u0641\u0627\u0642",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 473,
+    "ville": "Casablanca",
+    "name": "Casablanca - Abdelmoumen",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0639\u0628\u062f \u0627\u0644\u0645\u0648\u0645\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 472,
+    "ville": "Ras El Ma - Cap de l'eau",
+    "name": "Ras El Ma - Cap de l'eau",
+    "arabic_name": "\u0631\u0623\u0633 \u0627\u0644\u0645\u0627\u0621",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 471,
+    "ville": "Oulad Azzouz Dar 16",
+    "name": "Oulad Azzouz Dar 16",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0639\u0632\u0648\u0632",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 470,
+    "ville": "Casablanca",
+    "name": "Casablanca - Jawhara",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062c\u0648\u0647\u0631\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 469,
+    "ville": "Casablanca",
+    "name": "Casablanca - TANTONVILLE",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0637\u0646\u0637\u0648\u0641\u064a\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 468,
+    "ville": "Casablanca",
+    "name": "Casablanca - Lamkansa",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0645\u0643\u0646\u0627\u0633\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 467,
+    "ville": "Casablanca",
+    "name": "Casablanca - France Ville II",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0641\u0631\u0627\u0646\u0633 \u0641\u064a\u0644 2",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 466,
+    "ville": "Casablanca",
+    "name": "Casablanca - El Hana",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0627\u0644\u0647\u0646\u0627\u0621",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 465,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sid Al Khadir",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f \u0627\u0644\u062e\u0627\u062f\u064a\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 464,
+    "ville": "Casablanca",
+    "name": "Casablanca - Al Mostakbal",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062a\u062c\u0632\u0626\u0629 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 463,
+    "ville": "Casablanca",
+    "name": "Casablanca - Nassim II",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0627\u0644\u0646\u0633\u064a\u0645 2",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 462,
+    "ville": "Taghazout",
+    "name": "Taghazout",
+    "arabic_name": "\u062a\u063a\u0627\u0632\u0648\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 461,
+    "ville": "Loulad",
+    "name": "Loulad",
+    "arabic_name": "\u0644\u0648\u0644\u0627\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 459,
+    "ville": "Ouled Dahhou",
+    "name": "Ouled Dahhou",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u062f\u062d\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 458,
+    "ville": "Tamraght",
+    "name": "Tamraght",
+    "arabic_name": "\u062a\u0627\u0645\u0631\u0627\u063a\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 457,
+    "ville": "Ouled Moumna",
+    "name": "Ouled Moumna",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0627\u0644\u0645\u0648\u0645\u0646\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 456,
+    "ville": "Agouidir",
+    "name": "Agouidir",
+    "arabic_name": "\u0623\u0643\u0648\u064a\u062f\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 455,
+    "ville": "Bouaboud",
+    "name": "Bouaboud",
+    "arabic_name": "\u0628\u0648\u0639\u0628\u0648\u0637",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 454,
+    "ville": "Ighoud",
+    "name": "Ighoud",
+    "arabic_name": "\u0626\u063a\u0648\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 453,
+    "ville": "Sidi chiker",
+    "name": "Sidi chiker",
+    "arabic_name": "\u0633\u06cc\u062f\u06cc \u0634\u06cc\u06a9\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 452,
+    "ville": "Ait hadi",
+    "name": "Ait hadi",
+    "arabic_name": "\u0623\u064a\u062a \u0647\u0627\u062f\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 451,
+    "ville": "Mejjat - R\u00e9gion de Chichaoua",
+    "name": "Mejjat - R\u00e9gion de Chichaoua",
+    "arabic_name": "\u0645\u062c\u0627\u0637",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 450,
+    "ville": "Mzoudia",
+    "name": "Mzoudia",
+    "arabic_name": "\u0627\u0644\u0645\u0632\u0648\u0636\u064a\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 449,
+    "ville": "Sidi bou zid Chichaoua",
+    "name": "Sidi bou zid Chichaoua",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0648 \u0632\u064a\u062f \u0634\u064a\u0634\u0627\u0648\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 448,
+    "ville": "Sid L'Mokhtar",
+    "name": "Sid L'Mokhtar",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0645\u062e\u062a\u0627\u0631",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 447,
+    "ville": "Imintanout",
+    "name": "Imintanout",
+    "arabic_name": "\u0626\u0645\u064a \u0646\u062a\u0627\u0646\u0648\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 446,
+    "ville": "Beni Chiker",
+    "name": "Beni Chiker",
+    "arabic_name": "\u0628\u0646\u064a \u0634\u064a\u0643\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 445,
+    "ville": "Tiztoutine",
+    "name": "Tiztoutine",
+    "arabic_name": "\u062a\u064a\u0632\u0637\u0648\u062a\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 444,
+    "ville": "Ben Taieb",
+    "name": "Ben Taieb",
+    "arabic_name": "\u0628\u0646 \u0627\u0644\u0637\u064a\u0628",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 443,
+    "ville": "Midar",
+    "name": "Midar",
+    "arabic_name": "\u0645\u064a\u0636\u0627\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 442,
+    "ville": "Driouch",
+    "name": "Driouch",
+    "arabic_name": "\u0627\u0644\u062f\u0631\u064a\u0648\u0634",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 441,
+    "ville": "farkhana",
+    "name": "farkhana",
+    "arabic_name": "\u0641\u0631\u062e\u0627\u0646\u0629",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 440,
+    "ville": "Touima",
+    "name": "Touima",
+    "arabic_name": "\u062a\u0648\u064a\u0645\u0629",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 439,
+    "ville": "Assahrij",
+    "name": "Assahrij",
+    "arabic_name": "\u0627\u0644\u0635\u0647\u0631\u064a\u062c",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 418,
+    "ville": "Laayayta",
+    "name": "Laayayta",
+    "arabic_name": "\u0627\u0644\u0639\u064a\u0627\u064a\u0637\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 417,
+    "ville": "Foum Oudi",
+    "name": "Foum Oudi",
+    "arabic_name": "\u0641\u0645 \u0627\u0648\u062f\u064a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 416,
+    "ville": "Had Boumoussa",
+    "name": "Had Boumoussa",
+    "arabic_name": "\u062d\u062f \u0628\u0648\u0645\u0648\u0633\u0627",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 415,
+    "ville": "Bradia",
+    "name": "Bradia",
+    "arabic_name": "\u0628\u0631\u0627\u062f\u064a\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 414,
+    "ville": "A\u00eft Ishaq",
+    "name": "A\u00eft Ishaq",
+    "arabic_name": "\u0623\u064a\u062a \u0627\u0633\u062d\u0627\u0642",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 413,
+    "ville": "Tighassaline",
+    "name": "Tighassaline",
+    "arabic_name": "\u062a\u063a\u0633\u0627\u0644\u064a\u0646",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 412,
+    "ville": "Aguelmous",
+    "name": "Aguelmous",
+    "arabic_name": "\u0627\u06ad\u0644\u0645\u0648\u0633",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 411,
+    "ville": "Ouaouizeght",
+    "name": "Ouaouizeght",
+    "arabic_name": "\u0648\u0627\u0648\u064a\u0632\u063a\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 410,
+    "ville": "Beni Ayat",
+    "name": "Beni Ayat",
+    "arabic_name": "\u0628\u0646\u064a \u0639\u064a\u0627\u0637",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 409,
+    "ville": "Timoulilt",
+    "name": "Timoulilt",
+    "arabic_name": "\u202b\u062a\u064a\u0645\u0648\u0644\u064a\u0644\u062a\u202c",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 408,
+    "ville": "Afourar",
+    "name": "Afourar",
+    "arabic_name": "\u0627\u0641\u0648\u0631\u0627\u0631",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 407,
+    "ville": "Oulad M'barek",
+    "name": "Oulad M'barek",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0627\u0645\u0628\u0627\u0631\u0643",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 406,
+    "ville": "Sidi A\u00efssa",
+    "name": "Sidi A\u00efssa",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0639\u064a\u0633\u0649",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 405,
+    "ville": "Oulad Ayad",
+    "name": "Oulad Ayad",
+    "arabic_name": "\u0627\u0648\u0644\u0627\u062f \u0639\u064a\u0627\u062f",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 404,
+    "ville": "Dar Ould Zidouh",
+    "name": "Dar Ould Zidouh",
+    "arabic_name": "\u062f\u0627\u0631 \u0648\u0644\u062f \u0632\u064a\u062f\u0648\u062d",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 403,
+    "ville": "Souk Sebt",
+    "name": "Souk Sebt",
+    "arabic_name": "\u0633\u0648\u0642 \u0627\u0644\u0633\u0628\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 402,
+    "ville": "Sidi Jaber",
+    "name": "Sidi Jaber",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 401,
+    "ville": "Oulad Zmam",
+    "name": "Oulad Zmam",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0632\u0645\u0627\u0645",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 400,
+    "ville": "Oulad Ali",
+    "name": "Oulad Ali",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0639\u0644\u064a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 398,
+    "ville": "Oulad Youssef",
+    "name": "Oulad Youssef",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u064a\u0648\u0633\u0641",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 397,
+    "ville": "Tagzirt",
+    "name": "Tagzirt",
+    "arabic_name": "\u062a\u0627\u063a\u0632\u064a\u0631\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 396,
+    "ville": "Ighrem La\u00e2lam",
+    "name": "Ighrem La\u00e2lam",
+    "arabic_name": "\u0625\u063a\u0631\u0645 \u0646\u0644\u0639\u0644\u0627\u0645",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 395,
+    "ville": "Oulad Yaich",
+    "name": "Oulad Yaich",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u064a\u0639\u064a\u0634",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 394,
+    "ville": "Taliouine",
+    "name": "Taliouine",
+    "arabic_name": "\u062a\u0627\u0644\u064a\u0648\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 393,
+    "ville": "Oulad Berhil",
+    "name": "Oulad Berhil",
+    "arabic_name": "\u0627\u0648\u0644\u0627\u062f \u0628\u0631\u062d\u064a\u0644",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 392,
+    "ville": "Massa",
+    "name": "Massa",
+    "arabic_name": "\u202b\u0645\u0627\u0633\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 391,
+    "ville": "Lagfifat",
+    "name": "Lagfifat",
+    "arabic_name": "\u0627\u0644\u06af\u0641\u064a\u0641\u0627\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 390,
+    "ville": "Rencon",
+    "name": "Rencon",
+    "arabic_name": "\u0631\u064a\u0646\u0643\u0648\u0646",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 1
+  },
+  {
+    "id": 389,
+    "ville": "Cabo Negro",
+    "name": "Cabo Negro",
+    "arabic_name": "\u0643\u0627\u0628\u0648 \u0646\u064a\u0643\u0631\u0648",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 388,
+    "ville": "Laaouamera",
+    "name": "Laaouamera",
+    "arabic_name": "\u0627\u0644\u0639\u0648\u0627\u0645\u0631\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 387,
+    "ville": "Khandagour",
+    "name": "Khandagour",
+    "arabic_name": "\u0643\u0627\u0646\u062f\u0627\u063a\u0648\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 386,
+    "ville": "Jebila",
+    "name": "Jebila",
+    "arabic_name": "\u062c\u064a\u0628\u064a\u0644\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 385,
+    "ville": "Mnar",
+    "name": "Mnar",
+    "arabic_name": "\u0645\u0646\u0627\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 384,
+    "ville": "Sidi Hssain",
+    "name": "Sidi Hssain",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u062d\u0633\u0627\u064a\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 383,
+    "ville": "Gueznaia",
+    "name": "Gueznaia",
+    "arabic_name": "\u06ad\u0632\u0646\u0627\u064a\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 382,
+    "ville": "Ghafsai",
+    "name": "Ghafsai",
+    "arabic_name": "\u063a\u0641\u0633\u0627\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 381,
+    "ville": "Ghazoua",
+    "name": "Ghazoua",
+    "arabic_name": "\u063a\u0632\u0627\u0648\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 380,
+    "ville": "Ait Aiaaza",
+    "name": "Ait Aiaaza",
+    "arabic_name": "\u0627\u064a\u062a \u064a\u0639\u0632\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 379,
+    "ville": "Aoulouz",
+    "name": "Aoulouz",
+    "arabic_name": "\u0623\u0648\u0644\u0648\u0632",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 378,
+    "ville": "Dcheira El Jihadia",
+    "name": "Dcheira El Jihadia",
+    "arabic_name": "\u0627\u0644\u062f\u0634\u064a\u0631\u0629 \u0627\u0644\u062c\u0647\u0627\u062f\u064a\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 377,
+    "ville": "Leqliaa",
+    "name": "Leqliaa",
+    "arabic_name": "\u0627\u0644\u0642\u0644\u064a\u0639\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 376,
+    "ville": "Tarast",
+    "name": "Tarast",
+    "arabic_name": "\u062a\u0631\u0627\u0633\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 375,
+    "ville": "Loudaya",
+    "name": "Loudaya",
+    "arabic_name": "\u0644\u0648\u062f\u0627\u064a\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 374,
+    "ville": "Aourir \"R\u00e9gion Agadir\"",
+    "name": "Aourir \"R\u00e9gion Agadir\"",
+    "arabic_name": "\"\u0627\u0648\u0631\u064a\u0631 \"\u062c\u0647\u0629 \u0623\u06ad\u0627\u062f\u064a\u0631",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 373,
+    "ville": "Rommani",
+    "name": "Rommani",
+    "arabic_name": "\u0627\u0644\u0631\u0645\u0627\u0646\u064a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 372,
+    "ville": "Oulm\u00e8s",
+    "name": "Oulm\u00e8s",
+    "arabic_name": "\u0648\u0644\u0645\u0627\u0633",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 371,
+    "ville": "El Aarjate",
+    "name": "El Aarjate",
+    "arabic_name": "\u0627\u0644\u0639\u0631\u062c\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 368,
+    "ville": "Moulay Bousselham",
+    "name": "Moulay Bousselham",
+    "arabic_name": "\u0645\u0648\u0644\u0627\u064a \u0628\u0648 \u0633\u0644\u0647\u0627\u0645",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 367,
+    "ville": "Mehdia",
+    "name": "Mehdia",
+    "arabic_name": "\u0627\u0644\u0645\u0647\u062f\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 366,
+    "ville": "Harhoura",
+    "name": "Harhoura",
+    "arabic_name": "\u0647\u0631\u0647\u0648\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 365,
+    "ville": "Mers El Kheir",
+    "name": "Mers El Kheir",
+    "arabic_name": "\u0645\u0631\u0633 \u0627\u0644\u062e\u064a\u0631",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 364,
+    "ville": "Tahanaout",
+    "name": "Tahanaout",
+    "arabic_name": "\u062a\u062d\u0646\u0627\u0648\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 363,
+    "ville": "Assa",
+    "name": "Assa",
+    "arabic_name": "\u0622\u0633\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 362,
+    "ville": "Bab Taza",
+    "name": "Bab Taza",
+    "arabic_name": "\u0628\u0627\u0628 \u062a\u0627\u0632\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 358,
+    "ville": "Tahla",
+    "name": "Tahla",
+    "arabic_name": "\u062a\u0627\u0647\u0644\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 357,
+    "ville": "Imzouren",
+    "name": "Imzouren",
+    "arabic_name": "\u0625\u0645\u0632\u0648\u0631\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 356,
+    "ville": "Ourika",
+    "name": "Ourika",
+    "arabic_name": "\u0623\u0648\u0631\u064a\u0643\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 355,
+    "ville": "Ait ourir",
+    "name": "Ait ourir",
+    "arabic_name": "\u0622\u064a\u062a \u0648\u0631\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 354,
+    "ville": "Boulman",
+    "name": "Boulman",
+    "arabic_name": "\u0628\u0648\u0644\u0645\u0627\u0646",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 353,
+    "ville": "Oued laou",
+    "name": "Oued laou",
+    "arabic_name": "\u0648\u0627\u062f \u0644\u0627\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 352,
+    "ville": "El Mansouria",
+    "name": "El Mansouria",
+    "arabic_name": "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u064a\u0629",
+    "price": "35",
+    "delais": "48h - 96h",
+    "pickup_district": 1
+  },
+  {
+    "id": 351,
+    "ville": "Tizi Ouasli",
+    "name": "Tizi Ouasli",
+    "arabic_name": "\u062a\u064a\u0632\u064a \u0648\u0633\u0644\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 350,
+    "ville": "Boured",
+    "name": "Boured",
+    "arabic_name": "\u0628\u0648\u0631\u064a\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 349,
+    "ville": "Aknoul",
+    "name": "Aknoul",
+    "arabic_name": "\u0623\u0643\u0646\u0648\u0644",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 347,
+    "ville": "Oued Amlil",
+    "name": "Oued Amlil",
+    "arabic_name": "\u0648\u0627\u062f \u0623\u0645\u0644\u064a\u0644",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 344,
+    "ville": "El Ksiba",
+    "name": "El Ksiba",
+    "arabic_name": "\u0627\u0644\u0642\u0635\u064a\u0628\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 343,
+    "ville": "Khenichet",
+    "name": "Khenichet",
+    "arabic_name": "\u0627\u0644\u062e\u0646\u064a\u0634\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 341,
+    "ville": "Jorf El Melha",
+    "name": "Jorf El Melha",
+    "arabic_name": "\u062c\u0631\u0641 \u0627\u0644\u0645\u0644\u062d\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 340,
+    "ville": "A\u00efn-B\u00e9ni-Mathar",
+    "name": "A\u00efn-B\u00e9ni-Mathar",
+    "arabic_name": "\u0639\u064a\u0646 \u0628\u0646\u064a \u0645\u0637\u0647\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 339,
+    "ville": "El A\u00efoun Charqiya",
+    "name": "El A\u00efoun Charqiya",
+    "arabic_name": "\u0627\u0644\u0639\u064a\u0648\u0646 \u0633\u064a\u062f\u064a \u0645\u0644\u0651\u0648\u0643",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 338,
+    "ville": "Aklim",
+    "name": "Aklim",
+    "arabic_name": "\u0623\u0643\u0644\u064a\u0645",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 337,
+    "ville": "Zaio",
+    "name": "Zaio",
+    "arabic_name": "\u0632\u0627\u064a\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 336,
+    "ville": "Ayt Ihya",
+    "name": "Ayt Ihya",
+    "arabic_name": "\u0627\u064a\u062a \u0627\u064a\u062d\u064a\u0649",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 335,
+    "ville": "Msemrir",
+    "name": "Msemrir",
+    "arabic_name": "\u0627\u0645\u0633\u0645\u0631\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 334,
+    "ville": "Ait Sedrate Sahl Gharbia",
+    "name": "Ait Sedrate Sahl Gharbia",
+    "arabic_name": "\u0622\u064a\u062a \u0633\u062f\u0631\u0627\u062a \u0627\u0644\u0633\u0647\u0644 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 333,
+    "ville": "Alnif",
+    "name": "Alnif",
+    "arabic_name": "\u0623\u0644\u0646\u064a\u0641",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 332,
+    "ville": "A\u00eft Tarzout",
+    "name": "A\u00eft Tarzout",
+    "arabic_name": "\u0622\u064a\u062a \u062a\u0627\u0631\u0632\u0648\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 331,
+    "ville": "Ait Aissa Ou Brahim",
+    "name": "Ait Aissa Ou Brahim",
+    "arabic_name": "\u0622\u064a\u062a \u0639\u064a\u0633\u0649 \u0623\u0648\u0628\u0631\u0627\u0647\u064a\u0645",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 330,
+    "ville": "Aoufous",
+    "name": "Aoufous",
+    "arabic_name": "\u0623\u0648\u0641\u0648\u0633",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 329,
+    "ville": "Missour",
+    "name": "Missour",
+    "arabic_name": "\u0645\u064a\u0633\u0648\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 328,
+    "ville": "Boumia",
+    "name": "Boumia",
+    "arabic_name": "\u0628\u0648\u0645\u064a\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 327,
+    "ville": "Zaida",
+    "name": "Zaida",
+    "arabic_name": "\u0632\u0627\u064a\u062f\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 326,
+    "ville": "Tamaris",
+    "name": "Tamaris",
+    "arabic_name": "\u0637\u0627\u0645\u0627\u0631\u064a\u0633",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 325,
+    "ville": "Jerada",
+    "name": "Jerada",
+    "arabic_name": "\u062c\u0631\u0627\u062f\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 324,
+    "ville": "Boumalen dades",
+    "name": "Boumalen dades",
+    "arabic_name": "\u0628\u0648\u0645\u0627\u0644\u0646 \u062f\u0627\u062f\u0633",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 323,
+    "ville": "Ouazzane",
+    "name": "Ouazzane",
+    "arabic_name": "\u0648\u0632\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 322,
+    "ville": "Tata",
+    "name": "Tata",
+    "arabic_name": "\u0637\u0627\u0637\u0627",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 321,
+    "ville": "Tafraout",
+    "name": "Tafraout",
+    "arabic_name": "\u062a\u0627\u0641\u0631\u0627\u0648\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 320,
+    "ville": "Agourai",
+    "name": "Agourai",
+    "arabic_name": "\u0623\u0763\u0648\u0631\u0627\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 319,
+    "ville": "Tinejdad",
+    "name": "Tinejdad",
+    "arabic_name": "\u062a\u0646\u062c\u062f\u0627\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 318,
+    "ville": "El Gara",
+    "name": "El Gara",
+    "arabic_name": "\u0627\u0644\u0643\u0627\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 317,
+    "ville": "Mechra Bel Ksiri",
+    "name": "Mechra Bel Ksiri",
+    "arabic_name": "\u0645\u0634\u0631\u0639 \u0628\u0644\u0642\u0635\u064a\u0631\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 316,
+    "ville": "Saiss",
+    "name": "Saiss",
+    "arabic_name": "\u0633\u0627\u064a\u0633",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 315,
+    "ville": "Moulay Y\u00e2coub",
+    "name": "Moulay Y\u00e2coub",
+    "arabic_name": "\u0645\u0648\u0644\u0627\u064a \u064a\u0639\u0642\u0648\u0628",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 314,
+    "ville": "Ain-Cheggag",
+    "name": "Ain-Cheggag",
+    "arabic_name": "\u0639\u064a\u0646 \u0634\u0763\u0627\u0763",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 313,
+    "ville": "Sakia El hamra",
+    "name": "Sakia El hamra",
+    "arabic_name": "\u0627\u0644\u0633\u0627\u0642\u064a\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 311,
+    "ville": "Tlat Bouguedra",
+    "name": "Tlat Bouguedra",
+    "arabic_name": "\u0628\u0648\u0763\u062f\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 310,
+    "ville": "Souira Guedima",
+    "name": "Souira Guedima",
+    "arabic_name": "\u0627\u0644\u0635\u0648\u064a\u0631\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 309,
+    "ville": "Ounagha",
+    "name": "Ounagha",
+    "arabic_name": "\u0623\u0648\u0646\u0627\u063a\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 308,
+    "ville": "Talmest",
+    "name": "Talmest",
+    "arabic_name": "\u062a\u0627\u0644\u0645\u0633\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 307,
+    "ville": "Oualidia",
+    "name": "Oualidia",
+    "arabic_name": "\u0627\u0644\u0648\u0627\u0644\u062f\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 304,
+    "ville": "Zeghanghane",
+    "name": "Zeghanghane",
+    "arabic_name": "\u0623\u0632\u063a\u0646\u063a\u0627\u0646",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 303,
+    "ville": "Essemara",
+    "name": "Essemara",
+    "arabic_name": "\u0633\u0645\u0627\u0631\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 297,
+    "ville": "Chtouka - r\u00e9gion Agadir",
+    "name": "Chtouka - r\u00e9gion Agadir",
+    "arabic_name": "\u0634\u062a\u0648\u0643\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 296,
+    "ville": "Ait Amira",
+    "name": "Ait Amira",
+    "arabic_name": "\u0622\u064a\u062a \u0639\u0645\u064a\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 295,
+    "ville": "Temsia",
+    "name": "Temsia",
+    "arabic_name": "\u0627\u0644\u062a\u0645\u0633\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 294,
+    "ville": "Tikiwin",
+    "name": "Tikiwin",
+    "arabic_name": "\u062a\u064a\u0643\u0648\u064a\u0646",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 293,
+    "ville": "Agdz (zagoura)",
+    "name": "Agdz (zagoura)",
+    "arabic_name": "\u0623\u06ad\u062f\u0632",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 292,
+    "ville": "Taznakht",
+    "name": "Taznakht",
+    "arabic_name": "\u062a\u0627\u0632\u0646\u0627\u062e\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 291,
+    "ville": "Skoura",
+    "name": "Skoura",
+    "arabic_name": "\u0633\u0643\u0648\u0631\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 290,
+    "ville": "Echemmaia",
+    "name": "Echemmaia",
+    "arabic_name": "\u0627\u0644\u0634\u0645\u0627\u0639\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 289,
+    "ville": "Skhour Rehamna",
+    "name": "Skhour Rehamna",
+    "arabic_name": "\u0635\u062e\u0648\u0631 \u0627\u0644\u0631\u062d\u0627\u0645\u0646\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 288,
+    "ville": "Tamellalt",
+    "name": "Tamellalt",
+    "arabic_name": "\u062a\u0645\u0644\u0627\u0644\u062a",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 287,
+    "ville": "Douar Lahna",
+    "name": "Douar Lahna",
+    "arabic_name": "\u062f\u0648\u0627\u0631 \u0627\u0644\u0647\u0646\u0627",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 286,
+    "ville": "Sidi Abdellah Ghiyat",
+    "name": "Sidi Abdellah Ghiyat",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u063a\u064a\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 285,
+    "ville": "Lahbichat",
+    "name": "Lahbichat",
+    "arabic_name": "\u0627\u0644\u0647\u0628\u064a\u0634\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 284,
+    "ville": "Sidi Moussa \"R\u00e9gion de Marrakech\"",
+    "name": "Sidi Moussa \"R\u00e9gion de Marrakech\"",
+    "arabic_name": "\"\u0633\u064a\u062f\u064a \u0645\u0648\u0633\u0649 \"\u062c\u0647\u0629 \u0645\u0631\u0627\u0643\u0634",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 283,
+    "ville": "Ouled Hassoune",
+    "name": "Ouled Hassoune",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u062d\u0633\u0651\u0648\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 282,
+    "ville": "Souihla",
+    "name": "Souihla",
+    "arabic_name": "\u0627\u0644\u0633\u0648\u064a\u0647\u0644\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 281,
+    "ville": "Alouidane",
+    "name": "Alouidane",
+    "arabic_name": "\u0627\u0644\u0648\u064a\u062f\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 280,
+    "ville": "Chwiter",
+    "name": "Chwiter",
+    "arabic_name": "\u0634\u0648\u064a\u0637\u0631",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 279,
+    "ville": "Tameslouht",
+    "name": "Tameslouht",
+    "arabic_name": "\u062a\u0627\u0645\u0635\u0644\u0648\u062d\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 278,
+    "ville": "Tssoultante",
+    "name": "Tssoultante",
+    "arabic_name": "\u062a\u0627\u0633\u0644\u0637\u0627\u0646\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 277,
+    "ville": "Harbile",
+    "name": "Harbile",
+    "arabic_name": "\u062d\u0631\u0628\u064a\u0644",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 276,
+    "ville": "Dar Essalam",
+    "name": "Dar Essalam",
+    "arabic_name": "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 275,
+    "ville": "Ben Ahmed",
+    "name": "Ben Ahmed",
+    "arabic_name": "\u0628\u0646 \u0623\u062d\u0645\u062f",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 274,
+    "ville": "Sidi Hajjaj \"R\u00e9gion de Settat\"",
+    "name": "Sidi Hajjaj \"R\u00e9gion de Settat\"",
+    "arabic_name": "\"\u0633\u064a\u062f\u064a \u062d\u062c\u0627\u062c  \"\u062c\u0647\u0629 \u0633\u0637\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 273,
+    "ville": "Bni yakhlef",
+    "name": "Bni yakhlef",
+    "arabic_name": "\u0627\u0628\u0646 \u064a\u062e\u0644\u0641",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 272,
+    "ville": "Hettan",
+    "name": "Hettan",
+    "arabic_name": "\u062d\u0640\u0637\u0640\u0627\u0646",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 271,
+    "ville": "Bounoir",
+    "name": "Bounoir",
+    "arabic_name": "\u0628\u0648\u0646\u0648\u0627\u0631",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 270,
+    "ville": "Sidi Yahya El Gharb",
+    "name": "Sidi Yahya El Gharb",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u064a\u062d\u064a\u0649 \u0627\u0644\u063a\u0631\u0628",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 269,
+    "ville": "zaer",
+    "name": "zaer",
+    "arabic_name": "\u0632\u0639\u064a\u0631",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 268,
+    "ville": "Ain chkaf",
+    "name": "Ain chkaf",
+    "arabic_name": "\u0639\u064a\u0646 \u0634\u0642\u0641",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 267,
+    "ville": "M'haya",
+    "name": "M'haya",
+    "arabic_name": "\u0645\u0647\u0627\u064a\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 266,
+    "ville": "Ouislane",
+    "name": "Ouislane",
+    "arabic_name": "\u0648\u064a\u0633\u0644\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 265,
+    "ville": "Mejat \"R\u00e9gion de F\u00e8s-Mekn\u00e8s\"",
+    "name": "Mejat \"R\u00e9gion de F\u00e8s-Mekn\u00e8s\"",
+    "arabic_name": "\u0645\u062c\u0627\u0637",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 264,
+    "ville": "Skhinate",
+    "name": "Skhinate",
+    "arabic_name": "\u0627\u0644\u0633\u062e\u064a\u0646\u0627\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 263,
+    "ville": "Oulad Tayeb",
+    "name": "Oulad Tayeb",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u0627\u0644\u0637\u064a\u0628",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 262,
+    "ville": "Sidi Hrazem",
+    "name": "Sidi Hrazem",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u062d\u0631\u0627\u0632\u0645",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 261,
+    "ville": "Deroua",
+    "name": "Deroua",
+    "arabic_name": "\u0627\u0644\u062f\u0631\u0648\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 260,
+    "ville": "Ksar Sghir",
+    "name": "Ksar Sghir",
+    "arabic_name": "\u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0635\u063a\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 258,
+    "ville": "Casablanca",
+    "name": "Casablanca - Palmier",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0646\u062e\u064a\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 359,
+    "ville": "Casablanca",
+    "name": "Casablanca - Anassi",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0646\u0627\u0633\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 360,
+    "ville": "Casablanca",
+    "name": "Casablanca - Azhar",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0623\u0632\u0647\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 361,
+    "ville": "Casablanca",
+    "name": "Casablanca - Salmia",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0644\u0633\u0627\u0644\u0645\u064a\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 369,
+    "ville": "Casablanca",
+    "name": "Casablanca - Lahraouine",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0644\u0647\u0631\u0627\u0648\u064a\u064a\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 420,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ghandi",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u063a\u0627\u0646\u062f\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 421,
+    "ville": "Casablanca",
+    "name": "Casablanca - El hank",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0644\u0639\u0646\u0642",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 422,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay Tissir",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062d\u064a \u0627\u0644\u062a\u064a\u0633\u064a\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 423,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay el farah",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062d\u064a \u0627\u0644\u0641\u0631\u062d",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 424,
+    "ville": "Casablanca",
+    "name": "Casablanca - Habous",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0644\u062d\u0628\u0648\u0633",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 425,
+    "ville": "Casablanca",
+    "name": "Casablanca - Bachkou",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0628\u0627\u0634\u0643\u0648",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 426,
+    "ville": "Casablanca",
+    "name": "Casablanca - Derb Milan",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062f\u0631\u0628 \u0645\u064a\u0644\u0627\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 427,
+    "ville": "Casablanca",
+    "name": "Casablanca - Derb alkabir",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062f\u0631\u0628 \u0627\u0644\u0643\u0628\u064a\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 428,
+    "ville": "Casablanca",
+    "name": "Casablanca - Val fleurie",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0641\u0627\u0644 \u0641\u0644\u0648\u0631\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 429,
+    "ville": "Casablanca",
+    "name": "Casablanca - Riveira",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0631\u064a\u0641\u064a\u064a\u0631\u0627",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 430,
+    "ville": "Casablanca",
+    "name": "Casablanca - Bournazel",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0628\u0648\u0631\u0646\u0627\u0632\u064a\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 431,
+    "ville": "Casablanca",
+    "name": "Casablanca - Floride",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0641\u0644\u0648\u0631\u064a\u062f\u0627",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 432,
+    "ville": "Casablanca",
+    "name": "Casablanca - Mandarona",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0645\u0646\u0636\u0631\u0646\u0627",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 433,
+    "ville": "Casablanca",
+    "name": "Casablanca - Polo",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0628\u0648\u0644\u0648",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 434,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay assalama",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062d\u064a \u0627\u0644\u0633\u0644\u0627\u0645\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 435,
+    "ville": "Casablanca",
+    "name": "Casablanca - Attacharok",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0627\u0644\u062a\u0634\u0631\u0651\u0642",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 436,
+    "ville": "Casablanca",
+    "name": "Casablanca - Derb sultan",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062f\u0631\u0628 \u0627\u0644\u0633\u0644\u0637\u0627\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 437,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay Al Inara",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u062d\u064a \u0627\u0644\u0625\u0646\u0627\u0631\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 257,
+    "ville": "El Hajeb",
+    "name": "El Hajeb",
+    "arabic_name": "\u0627\u0644\u062d\u0627\u062c\u0628",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 255,
+    "ville": "Goulmima",
+    "name": "Goulmima",
+    "arabic_name": "\u06ad\u0644\u0645\u064a\u0645\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 253,
+    "ville": "Boufakrane",
+    "name": "Boufakrane",
+    "arabic_name": "\u0628\u0648\u0641\u0643\u0631\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 233,
+    "ville": "Sidi Bouknadel",
+    "name": "Sidi Bouknadel",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0648\u0642\u0646\u0627\u062f\u0644",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 232,
+    "ville": "Zaouiat Cheikh",
+    "name": "Zaouiat Cheikh",
+    "arabic_name": "\u0632\u0627\u0648\u064a\u0629 \u0627\u0644\u0634\u064a\u062e",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 229,
+    "ville": "Zagoura",
+    "name": "Zagoura",
+    "arabic_name": "\u0632\u0627\u06ad\u0648\u0631\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 228,
+    "ville": "Youssoufia",
+    "name": "Youssoufia",
+    "arabic_name": "\u0627\u0644\u064a\u0648\u0633\u0641\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 226,
+    "ville": "Tiznit",
+    "name": "Tiznit",
+    "arabic_name": "\u062a\u0632\u0646\u064a\u062a\u200e",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 225,
+    "ville": "Tit Melil",
+    "name": "Tit Melil",
+    "arabic_name": "\u062a\u064a\u0637\u0651 \u0645\u0644\u0651\u064a\u0644",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 224,
+    "ville": "Tinghir",
+    "name": "Tinghir",
+    "arabic_name": "\u062a\u0646\u063a\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 223,
+    "ville": "Tiflet",
+    "name": "Tiflet",
+    "arabic_name": "\u062a\u064a\u0641\u0644\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 222,
+    "ville": "Tetouan",
+    "name": "Tetouan",
+    "arabic_name": "\u062a\u0637\u0648\u0627\u0646",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 220,
+    "ville": "Temara",
+    "name": "Temara",
+    "arabic_name": "\u062a\u0645\u0627\u0631\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 218,
+    "ville": "Taroudant",
+    "name": "Taroudant",
+    "arabic_name": "\u062a\u0627\u0631\u0648\u062f\u0627\u0646\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 216,
+    "ville": "Taourirt",
+    "name": "Taourirt",
+    "arabic_name": "\u062a\u0627\u0648\u0631\u064a\u0631\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 215,
+    "ville": "Taounate",
+    "name": "Taounate",
+    "arabic_name": "\u062a\u0627\u0648\u0646\u0627\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 214,
+    "ville": "Tan-Tan",
+    "name": "Tan-Tan",
+    "arabic_name": "\u0637\u0627\u0646\u0637\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 212,
+    "ville": "Tamesna",
+    "name": "Tamesna",
+    "arabic_name": "\u062a\u0627\u0645\u0633\u0646\u0627",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 211,
+    "ville": "Tamansourt",
+    "name": "Tamansourt",
+    "arabic_name": "\u062a\u0627\u0645\u0646\u0635\u0648\u0631\u062a",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 209,
+    "ville": "Souk El Arbaa Du Gharb",
+    "name": "Souk El Arbaa Du Gharb",
+    "arabic_name": "\u0633\u0648\u0642 \u0623\u0631\u0628\u0639\u0627\u0621 \u0627\u0644\u063a\u0631\u0628",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 208,
+    "ville": "Skhirat",
+    "name": "Skhirat",
+    "arabic_name": "\u0627\u0644\u0635\u062e\u064a\u0631\u0627\u062a",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 206,
+    "ville": "Sidi Slimane",
+    "name": "Sidi Slimane",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0633\u0644\u064a\u0645\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 205,
+    "ville": "Sidi Kacem",
+    "name": "Sidi Kacem",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0642\u0627\u0633\u0645",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 204,
+    "ville": "Sidi Ifni",
+    "name": "Sidi Ifni",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0625\u064a\u0641\u0646\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 203,
+    "ville": "Sidi Bouzid ( el jadida )",
+    "name": "Sidi Bouzid ( el jadida )",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0648\u0632\u064a\u062f ( \u0627\u0644\u062c\u062f\u064a\u062f\u0629 )",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 202,
+    "ville": "Sidi Bibi",
+    "name": "Sidi Bibi",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u064a\u0628\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 201,
+    "ville": "Sidi Bennour",
+    "name": "Sidi Bennour",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0628\u0646\u0651\u0648\u0631",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 200,
+    "ville": "Sidi Allal El Bahraoui",
+    "name": "Sidi Allal El Bahraoui",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0639\u0644\u0627\u0644 \u0627\u0644\u0628\u062d\u0631\u0627\u0648\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 198,
+    "ville": "Sidi Addi",
+    "name": "Sidi Addi",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0639\u062f\u0651\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 196,
+    "ville": "Sefrou",
+    "name": "Sefrou",
+    "arabic_name": "\u0635\u0641\u0631\u0648",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 195,
+    "ville": "Sebt Oulad Nemma",
+    "name": "Sebt Oulad Nemma",
+    "arabic_name": "\u0633\u0628\u062a  \u0623\u0648\u0644\u0627\u062f \u0627\u0644\u0646\u0645\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 193,
+    "ville": "Sebt Gzoula",
+    "name": "Sebt Gzoula",
+    "arabic_name": "\u0633\u0628\u062a \u062c\u0632\u0648\u0644\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 192,
+    "ville": "Sebt El Guerdane",
+    "name": "Sebt El Guerdane",
+    "arabic_name": "\u0633\u0628\u062a \u0627\u0644\u0643\u0631\u062f\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 191,
+    "ville": "Sala El Jadida",
+    "name": "Sala El Jadida",
+    "arabic_name": "\u0633\u0644\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 190,
+    "ville": "Sale",
+    "name": "Sale",
+    "arabic_name": "\u0633\u0644\u0627",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 189,
+    "ville": "Saidia",
+    "name": "Saidia",
+    "arabic_name": "\u0627\u0644\u0633\u0639\u064a\u062f\u064a\u0629\u200e",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 188,
+    "ville": "Safi",
+    "name": "Safi",
+    "arabic_name": "\u0623\u0633\u0641\u064a",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 186,
+    "ville": "Rissani",
+    "name": "Rissani",
+    "arabic_name": "\u0627\u0644\u0631\u064a\u0635\u0627\u0646\u064a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 181,
+    "ville": "Oulad Teima",
+    "name": "Oulad Teima",
+    "arabic_name": "\u0623\u0648\u0644\u0627\u062f \u062a\u0627\u064a\u0645\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 180,
+    "ville": "Oued Zem",
+    "name": "Oued Zem",
+    "arabic_name": "\u0648\u0627\u062f \u0632\u0645",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 177,
+    "ville": "Ouarzazate",
+    "name": "Ouarzazate",
+    "arabic_name": "\u0648\u0631\u0632\u0627\u0632\u0627\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 175,
+    "ville": "Mrirt",
+    "name": "Mrirt",
+    "arabic_name": "\u0645\u0631\u064a\u0631\u062a",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 174,
+    "ville": "Moulay Idriss zerhouni",
+    "name": "Moulay Idriss zerhouni",
+    "arabic_name": "\u0645\u0648\u0644\u0627\u064a \u0625\u062f\u0631\u064a\u0633 \u0632\u0631\u0647\u0648\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 172,
+    "ville": "Moulay Abdellah",
+    "name": "Moulay Abdellah",
+    "arabic_name": "\u0645\u0648\u0644\u0627\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 170,
+    "ville": "Midelt",
+    "name": "Midelt",
+    "arabic_name": "\u0645\u064a\u062f\u0644\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 168,
+    "ville": "Merzouga",
+    "name": "Merzouga",
+    "arabic_name": "\u0645\u0631\u0632\u0648\u0643\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 167,
+    "ville": "Meknes",
+    "name": "Meknes",
+    "arabic_name": "\u0645\u0643\u0646\u0627\u0633",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 165,
+    "ville": "Mdiq",
+    "name": "Mdiq",
+    "arabic_name": "\u0627\u0644\u0645\u0636\u064a\u0642",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 164,
+    "ville": "Laarache",
+    "name": "Laarache",
+    "arabic_name": "\u0627\u0644\u0639\u0631\u0627\u0626\u0634",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 162,
+    "ville": "La\u00e2youne",
+    "name": "La\u00e2youne",
+    "arabic_name": "\u0627\u0644\u0639\u064a\u0648\u0646",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 161,
+    "ville": "Laattaouia",
+    "name": "Laattaouia",
+    "arabic_name": "\u0627\u0644\u0639\u0637\u0627\u0648\u064a\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 159,
+    "ville": "Ksar El Kebir",
+    "name": "Ksar El Kebir",
+    "arabic_name": "\u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0643\u0628\u064a\u0631",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 158,
+    "ville": "Khouribga",
+    "name": "Khouribga",
+    "arabic_name": "\u062e\u0631\u064a\u0628\u0643\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 157,
+    "ville": "Khenifra",
+    "name": "Khenifra",
+    "arabic_name": "\u062e\u0646\u064a\u0641\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 156,
+    "ville": "Khemis Des Zemamra",
+    "name": "Khemis Des Zemamra",
+    "arabic_name": "\u062e\u0645\u064a\u0633 \u0627\u0644\u0632\u0645\u0627\u0645\u0631\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 155,
+    "ville": "Kenitra",
+    "name": "Kenitra",
+    "arabic_name": "\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 154,
+    "ville": "Kelaat M'Gouna",
+    "name": "Kelaat M'Gouna",
+    "arabic_name": "\u0642\u0644\u0639\u0629 \u0627\u0645\u06af\u0648\u0646\u0629",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 153,
+    "ville": "Kasba Tadla",
+    "name": "Kasba Tadla",
+    "arabic_name": "\u0642\u0635\u0628\u0629 \u062a\u0627\u062f\u0644\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 149,
+    "ville": "Jamaat Shaim",
+    "name": "Jamaat Shaim",
+    "arabic_name": "\u062c\u0645\u0639\u0629 \u0633\u062d\u064a\u0645",
+    "price": "45",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 148,
+    "ville": "Inzegane",
+    "name": "Inzegane",
+    "arabic_name": "\u0625\u0646\u0632\u0763\u0627\u0646",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 147,
+    "ville": "Imouzzer du Kandar",
+    "name": "Imouzzer du Kandar",
+    "arabic_name": "\u0625\u0645\u0648\u0632\u0627\u0631 \u0643\u0646\u062f\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 145,
+    "ville": "Ifran",
+    "name": "Ifran",
+    "arabic_name": "\u0625\u0641\u0631\u0627\u0646",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 143,
+    "ville": "Guercif",
+    "name": "Guercif",
+    "arabic_name": "\u0763\u0631\u0633\u064a\u0641",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 142,
+    "ville": "Guelmim",
+    "name": "Guelmim",
+    "arabic_name": "\u0763\u0644\u0645\u064a\u0645",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 141,
+    "ville": "Fquih Ben Salah",
+    "name": "Fquih Ben Salah",
+    "arabic_name": "\u0627\u0644\u0641\u0642\u064a\u0647 \u0628\u0646 \u0635\u0627\u0644\u062d",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 139,
+    "ville": "Fes",
+    "name": "Fes",
+    "arabic_name": "\u0641\u0627\u0633",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 137,
+    "ville": "Essaouira",
+    "name": "Essaouira",
+    "arabic_name": "\u0627\u0644\u0635\u0648\u064a\u0631\u0629",
+    "price": "35",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 136,
+    "ville": "Errachidia",
+    "name": "Errachidia",
+    "arabic_name": "\u0627\u0644\u0631\u0634\u064a\u062f\u064a\u0629",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 135,
+    "ville": "Er-Rich",
+    "name": "Er-Rich",
+    "arabic_name": "\u0627\u0644\u0631\u064a\u0634",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 133,
+    "ville": "El Kelaa Des Sraghna",
+    "name": "El Kelaa Des Sraghna",
+    "arabic_name": "\u0642\u0644\u0639\u0629 \u0627\u0644\u0633\u0631\u0627\u063a\u0646\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 132,
+    "ville": "Haj Kaddour",
+    "name": "Haj Kaddour",
+    "arabic_name": "\u0627\u0644\u062d\u0627\u062c  \u0642\u062f\u0648\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 130,
+    "ville": "Drarga",
+    "name": "Drarga",
+    "arabic_name": "\u0627\u0644\u062f\u0631\u0627\u0631\u0763\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 126,
+    "ville": "Demnate",
+    "name": "Demnate",
+    "arabic_name": "\u062f\u0645\u0646\u0627\u062a",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 124,
+    "ville": "Dakhla",
+    "name": "Dakhla",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u062e\u0644\u0629",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 123,
+    "ville": "Chichaoua",
+    "name": "Chichaoua",
+    "arabic_name": "\u0634\u064a\u0634\u0627\u0648\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 122,
+    "ville": "Chefchaouen",
+    "name": "Chefchaouen",
+    "arabic_name": "\u0634\u0641\u0634\u0627\u0648\u0646",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 119,
+    "ville": "Boujniba",
+    "name": "Boujniba",
+    "arabic_name": "\u0628\u0648 \u062c\u0646\u064a\u0628\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 118,
+    "ville": "Boujdour",
+    "name": "Boujdour",
+    "arabic_name": "\u0628\u0648\u062c\u062f\u0648\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 115,
+    "ville": "Beni Mellal",
+    "name": "Beni Mellal",
+    "arabic_name": "\u0628\u0646\u064a \u0645\u0644\u0627\u0644",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 113,
+    "ville": "Benguerir",
+    "name": "Benguerir",
+    "arabic_name": "\u0628\u0646 \u062c\u0631\u064a\u0631",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 111,
+    "ville": "Belfaa",
+    "name": "Belfaa",
+    "arabic_name": "\u0628\u0644\u0641\u0627\u0639",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 110,
+    "ville": "Bejaad",
+    "name": "Bejaad",
+    "arabic_name": "\u0623\u0628\u0648 \u0627\u0644\u062c\u0639\u062f",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 108,
+    "ville": "Bab Berred",
+    "name": "Bab Berred",
+    "arabic_name": "\u0628\u0627\u0628 \u0628\u0631\u0651\u062f",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 107,
+    "ville": "Azrou \"R\u00e9gion de F\u00e8s-Mekn\u00e8s\"",
+    "name": "Azrou \"R\u00e9gion de F\u00e8s-Mekn\u00e8s\"",
+    "arabic_name": "\"\u0623\u0632\u0631\u0648\"\u062c\u0647\u0629 \u0641\u0627\u0633 \u0640 \u0645\u0643\u0646\u0627\u0633",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 106,
+    "ville": "Azilal",
+    "name": "Azilal",
+    "arabic_name": "\u0623\u0632\u064a\u0644\u0627\u0644",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 105,
+    "ville": "Azemmour",
+    "name": "Azemmour",
+    "arabic_name": "\u0623\u0632\u0645\u0648\u0631",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 104,
+    "ville": "Assilah",
+    "name": "Assilah",
+    "arabic_name": "\u0623\u0635\u064a\u0644\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 102,
+    "ville": "Arfoud",
+    "name": "Arfoud",
+    "arabic_name": "\u0623\u0631\u0641\u0648\u062f",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 100,
+    "ville": "Anza",
+    "name": "Anza",
+    "arabic_name": "\u0623\u0646\u0632\u0627",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 96,
+    "ville": "A\u00eft Melloul",
+    "name": "A\u00eft Melloul",
+    "arabic_name": "\u0622\u064a\u062a \u0645\u0644\u0648\u0644",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 94,
+    "ville": "Ain Taoujdate",
+    "name": "Ain Taoujdate",
+    "arabic_name": "\u0639\u064a\u0646 \u062a\u0627\u0648\u062c\u0637\u0627\u062a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 87,
+    "ville": "Ain Attig",
+    "name": "Ain Attig",
+    "arabic_name": "\u0639\u064a\u0646 \u0639\u062a\u064a\u0642",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 86,
+    "ville": "Ain El Aouda",
+    "name": "Ain El Aouda",
+    "arabic_name": "\u0639\u064a\u0646 \u0639\u0648\u062f\u0629",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 81,
+    "ville": "Taza",
+    "name": "Taza",
+    "arabic_name": "\u062a\u0627\u0632\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 76,
+    "ville": "Selouane",
+    "name": "Selouane",
+    "arabic_name": "\u0633\u0644\u0648\u0627\u0646",
+    "price": "39",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 73,
+    "ville": "Oujda",
+    "name": "Oujda",
+    "arabic_name": "\u0648\u062c\u062f\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 72,
+    "ville": "Nador",
+    "name": "Nador",
+    "arabic_name": "\u0627\u0644\u0646\u0627\u0638\u0648\u0631",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 71,
+    "ville": "Martil",
+    "name": "Martil",
+    "arabic_name": "\u0645\u0631\u062a\u064a\u0644",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 70,
+    "ville": "Khemisset",
+    "name": "Khemisset",
+    "arabic_name": "\u0627\u0644\u062e\u0645\u064a\u0633\u0627\u062a\u200e",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 69,
+    "ville": "Fnideq",
+    "name": "Fnideq",
+    "arabic_name": "\u0627\u0644\u0641\u0646\u064a\u062f\u0642",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 68,
+    "ville": "Chellalat Mohammedia",
+    "name": "Chellalat Mohammedia",
+    "arabic_name": "\u0634\u0644\u0627\u0644\u0627\u062a \u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 66,
+    "ville": "Biougra",
+    "name": "Biougra",
+    "arabic_name": "\u0628\u064a\u0648\u0763\u0631\u0649",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 65,
+    "ville": "Berkane",
+    "name": "Berkane",
+    "arabic_name": "\u0628\u0631\u0643\u0627\u0646",
+    "price": "39",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 64,
+    "ville": "Benslimane",
+    "name": "Benslimane",
+    "arabic_name": "\u0628\u0646 \u0633\u0644\u064a\u0645\u0627\u0646",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 63,
+    "ville": "Beni Ensar",
+    "name": "Beni Ensar",
+    "arabic_name": "\u0628\u0646\u064a \u0646\u0635\u0627\u0631",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 61,
+    "ville": "Al Hoceima",
+    "name": "Al Hoceima",
+    "arabic_name": "\u0627\u0644\u062d\u0633\u064a\u0645\u0629",
+    "price": "39",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 60,
+    "ville": "Al Aaroui",
+    "name": "Al Aaroui",
+    "arabic_name": "\u0627\u0644\u0639\u0631\u0648\u064a",
+    "price": "45",
+    "delais": "24h - 72h",
+    "pickup_district": 0
+  },
+  {
+    "id": 58,
+    "ville": "Ain Harrouda",
+    "name": "Ain Harrouda",
+    "arabic_name": "\ufecb\ufef4\ufee6 \ufea3\ufeae\ufeed\ufea9\ufe93",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 57,
+    "ville": "Ahfir",
+    "name": "Ahfir",
+    "arabic_name": "\u0627\u062d\u0641\u064a\u0631",
+    "price": "45",
+    "delais": "48h - 96h",
+    "pickup_district": 0
+  },
+  {
+    "id": 56,
+    "ville": "Marrakech",
+    "name": "Marrakech",
+    "arabic_name": "\u0645\u0631\u0627\u0643\u0634",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 55,
+    "ville": "El jadida",
+    "name": "El jadida",
+    "arabic_name": "\u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 54,
+    "ville": "Agadir",
+    "name": "Agadir",
+    "arabic_name": "\u0623\u0643\u0627\u062f\u064a\u0631",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 53,
+    "ville": "Rabat",
+    "name": "Rabat",
+    "arabic_name": "\u0627\u0644\u0631\u0628\u0627\u0637",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 52,
+    "ville": "Tanger",
+    "name": "Tanger",
+    "arabic_name": "\u0637\u0646\u062c\u0629",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 51,
+    "ville": "Sidi rahal",
+    "name": "Sidi rahal",
+    "arabic_name": "\u0633\u064a\u062f\u064a \u0631\u062d\u0627\u0644",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 49,
+    "ville": "Bouznika",
+    "name": "Bouznika",
+    "arabic_name": "\u0628\u0648\u0632\u0646\u064a\u0642\u0629",
+    "price": "35",
+    "delais": "48h - 96h",
+    "pickup_district": 1
+  },
+  {
+    "id": 48,
+    "ville": "Casablanca",
+    "name": "Casablanca - 2 mars",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - 2 \u0645\u0627\u0631\u0633",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 47,
+    "ville": "Had Soualem",
+    "name": "Had Soualem",
+    "arabic_name": "\u062d\u062f \u0627\u0644\u0633\u0648\u0627\u0644\u0645",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 0
+  },
+  {
+    "id": 46,
+    "ville": "Casablanca",
+    "name": "Casablanca - Autres quartiers",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0623\u062d\u064a\u0627\u0621 \u0623\u062e\u0631\u0649",
+    "price": "19",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 45,
+    "ville": "Nouacer",
+    "name": "Nouacer",
+    "arabic_name": "\u0627\u0644\u0646\u0648\u0627\u0635\u0631",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 44,
+    "ville": "Mediouna",
+    "name": "Mediouna",
+    "arabic_name": "\u0645\u062f\u064a\u0648\u0646\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 43,
+    "ville": "Settat",
+    "name": "Settat",
+    "arabic_name": "\u0633\u0637\u0627\u062a",
+    "price": "35",
+    "delais": "24h - 72h",
+    "pickup_district": 1
+  },
+  {
+    "id": 42,
+    "ville": "Berrechid",
+    "name": "Berrechid",
+    "arabic_name": "\u0628\u0631\u0634\u064a\u062f",
+    "price": "35",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 40,
+    "ville": "Dar Bouaza",
+    "name": "Dar Bouaza",
+    "arabic_name": "\u062f\u0627\u0631 \u0628\u0648\u0639\u0632\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 39,
+    "ville": "Errahma",
+    "name": "Errahma",
+    "arabic_name": "\u0627\u0644\u0631\u062d\u0645\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 38,
+    "ville": "Bouskoura-Centre",
+    "name": "Bouskoura-Centre",
+    "arabic_name": "\u0628\u0648\u0633\u0643\u0648\u0631\u0629-\u0648\u0633\u0637 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+    "price": "29",
+    "delais": "24h",
+    "pickup_district": 1
+  },
+  {
+    "id": 41,
+    "ville": "Mohammedia",
+    "name": "Mohammedia",
+    "arabic_name": "\u0627\u0644\u0645\u062d\u0645\u062f\u064a\u0629",
+    "price": "29",
+    "delais": "24h - 48h",
+    "pickup_district": 1
+  },
+  {
+    "id": 37,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sidi Othmane",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f\u064a \u0639\u062b\u0645\u0627\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 36,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sidi Moumen",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f\u064a \u0645\u0648\u0645\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 35,
+    "ville": "Casablanca",
+    "name": "Casablanca - Derb Omar",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062f\u0631\u0628 \u0639\u0645\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 34,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ancienne Medina",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0639\u062a\u064a\u0642\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 33,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sidi Belyout",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f\u064a \u0628\u0644\u064a\u0648\u0637",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 32,
+    "ville": "Casablanca",
+    "name": "Casablanca - Gauthier",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u063a\u0648\u062a\u064a\u064a\u0647",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 31,
+    "ville": "Casablanca",
+    "name": "Casablanca - Centre Ville",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0648\u0633\u0637 \u0627\u0644\u0645\u062f\u064a\u0646\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 30,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sbata",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u0628\u0627\u062a\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 29,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ain Borja",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0639\u064a\u0646 \u0628\u0631\u062c\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 28,
+    "ville": "Casablanca",
+    "name": "Casablanca - Belv\u00e9d\u00e8re",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0628\u0644\u06a4\u064a\u062f\u064a\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 27,
+    "ville": "Casablanca",
+    "name": "Casablanca - Roches noires",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0635\u062e\u0648\u0631 \u0627\u0644\u0633\u0648\u062f\u0627\u0621",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 26,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay Moulay Rachid",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0645\u0648\u0644\u0627\u064a \u0631\u0634\u064a\u062f",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 25,
+    "ville": "Casablanca",
+    "name": "Casablanca - Garage Allal",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u06af\u0631\u0627\u062c \u0639\u0644\u0627\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 24,
+    "ville": "Casablanca",
+    "name": "Casablanca - La Gironde",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0644\u0627\u062c\u064a\u0631\u0648\u0646\u062f",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 23,
+    "ville": "Casablanca",
+    "name": "Casablanca - Mers sultan",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0645\u0631\u0633 \u0627\u0644\u0633\u0644\u0637\u0627\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 22,
+    "ville": "Casablanca",
+    "name": "Casablanca - Les H\u00f4pitaux",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 21,
+    "ville": "Casablanca",
+    "name": "Casablanca - Derb Ghalef",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062f\u0631\u0628 \u063a\u0644\u0641",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 20,
+    "ville": "Casablanca",
+    "name": "Casablanca - Maarif",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0645\u0639\u0627\u0631\u064a\u0641",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 19,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay mohammedi",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u062d\u064a \u0627\u0644\u0645\u062d\u0645\u062f\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 18,
+    "ville": "Casablanca",
+    "name": "Casablanca - Oulfa",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0648\u0644\u0641\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 17,
+    "ville": "Casablanca",
+    "name": "Casablanca - Lissassfa",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0644\u064a\u0633\u0627\u0633\u0641\u0629",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 16,
+    "ville": "Casablanca",
+    "name": "Casablanca - CIL",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u0644",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 15,
+    "ville": "Casablanca",
+    "name": "Casablanca - Beaus\u00e9jour",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0628\u0648\u0633\u064a\u062c\u0648\u0631",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 14,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay Hassani",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u062d\u064a \u0627\u0644\u062d\u0633\u0646\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 13,
+    "ville": "Casablanca",
+    "name": "Casablanca - Bernoussi",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f\u064a \u0627\u0644\u0628\u0631\u0646\u0648\u0635\u064a",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 12,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ben msik",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0628\u0646 \u0645\u0633\u064a\u0643",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 11,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ain sebaa",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0639\u064a\u0646 \u0627\u0644\u0633\u0628\u0639",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 10,
+    "ville": "Casablanca",
+    "name": "Casablanca - Oasis",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0627\u0644\u0648\u0627\u0632\u064a\u0633",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 9,
+    "ville": "Casablanca",
+    "name": "Casablanca - Hay moulay Abdellah",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u062d\u064a \u0645\u0648\u0644\u0627\u064a \u0639\u0628\u062f \u0627\u0644\u0644\u0647",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 8,
+    "ville": "Casablanca",
+    "name": "Casablanca - Californie",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 7,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ain chok",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0639\u064a\u0646 \u0627\u0644\u0634\u0642",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 6,
+    "ville": "Casablanca",
+    "name": "Casablanca - Racine",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0631\u0627\u0633\u064a\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 5,
+    "ville": "Casablanca",
+    "name": "Casablanca - Bourgogne",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0628\u0648\u0631\u0643\u0648\u0646",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 4,
+    "ville": "Casablanca",
+    "name": "Casablanca - Anfa",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0646\u0641\u0627",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 3,
+    "ville": "Casablanca",
+    "name": "Casablanca - Ain diab",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0639\u064a\u0646 \u0627\u0644\u0630\u0626\u0627\u0628",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 2,
+    "ville": "Casablanca",
+    "name": "Casablanca - Sidi Ma\u00e2rouf",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0633\u064a\u062f\u064a \u0645\u0639\u0631\u0648\u0641",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  },
+  {
+    "id": 1,
+    "ville": "Casablanca",
+    "name": "Casablanca - Al fida",
+    "arabic_name": "\u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 - \u0627\u0644\u0641\u062f\u0627\u0621",
+    "price": "19",
+    "delais": "24h",
+    "pickup_district": 0
+  }
+]
